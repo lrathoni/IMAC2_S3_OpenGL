@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TP1_quad.dir/quad.cpp.o  -o TP1_quad ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 
